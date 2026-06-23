@@ -83,7 +83,7 @@ se muestra el apartado de deteccion de amenazas y vulnerabilidades
 <img width="931" height="842" alt="8 alertas" src="https://github.com/user-attachments/assets/e4a2cf33-6248-464d-9754-d310872329d2" />
 y el menú de alertas de Threat Hunting
 
-<img width="933" height="751" alt="pagina ubunto manager" src="https://github.com/user-attachments/assets/8ee39a0a-95a2-4a94-945e-c6d744462dc6" />
+
 menu de eventos
 
 <img width="964" height="916" alt="error" src="https://github.com/user-attachments/assets/aefad62f-eea1-420c-b73d-df297f140533" />
