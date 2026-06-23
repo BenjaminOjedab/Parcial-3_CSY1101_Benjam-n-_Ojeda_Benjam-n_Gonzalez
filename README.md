@@ -84,6 +84,8 @@ se muestra el apartado de deteccion de amenazas y vulnerabilidades
 y el menú de alertas de Threat Hunting
 
 
+
+<img width="933" height="751" alt="eventos" src="https://github.com/user-attachments/assets/2e091f85-c18e-4923-8637-08cff055e47f" />
 menu de eventos
 
 <img width="964" height="916" alt="error" src="https://github.com/user-attachments/assets/aefad62f-eea1-420c-b73d-df297f140533" />
